@@ -11,7 +11,7 @@ const subtract = (a, b) => a - b;
 console.log(subtract(1, 5));
 
 
-const double = a => a * 2; // for single parameter (no nedd to require parenthesis)
+const double = a => a * 2; // for single parameter (no need to require parenthesis)
 console.log(double(10));
 
 
